@@ -1,0 +1,39 @@
+.root{
+    -fx-background-color: #383838;
+}
+#top{
+    -fx-padding: 20;
+    -fx-alignment: center;
+}
+.label{
+    -fx-font-size: 13;
+    -fx-font-weight: 500;
+}
+#matrix{
+    -fx-padding: 40;
+    -fx-alignment: center;
+}
+#R{
+    -fx-fill: tomato;
+    -fx-text-fill: tomato;
+}
+#O{
+    -fx-fill: orange;
+    -fx-text-fill: orange;
+}
+#Y{
+    -fx-fill: yellow;
+    -fx-text-fill: yellow;
+}
+#G{
+    -fx-fill: #00D467;
+    -fx-text-fill: #00D467;
+}
+#B{
+    -fx-fill: dodgerblue;
+    -fx-text-fill: dodgerblue;
+}
+#P{
+    -fx-fill: mediumpurple;
+    -fx-text-fill: mediumpurple;
+}
