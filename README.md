@@ -1,7 +1,7 @@
 # Flood-Fill-Algorithm-Visualizer
 Implementation of the Flood Fill Algorithm utilizing JavaFX for a graphical user interface
 
-IMPORTANT NOTE: JavaFX must be downloaded in order to run the program. I recommend using IntelliJ IDEA and selecting JavaFX when creating a new project.
+IMPORTANT NOTE: JavaFX must be downloaded in order to run the program.
 
 This project primarily served as an opportunity for me to learn about a well-known algorithm while learning how to create GUIs in Java.
 
