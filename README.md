@@ -12,3 +12,5 @@ It uses a breadth-first search technique to traverse adjacent nodes.
   1. select a color among the radio buttons on the top panel
   2. Click one cell/tile on the grid that contains a different color than the one selected.
   3. Watch the algorithm progressively fill the region of colors to the new color.
+
+![Flood Fill GIF](FloodFillGIF.png)
